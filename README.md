@@ -57,11 +57,12 @@
     <a href="https://esraeldawit.me/portifolio"><img alt="Esrael Dawit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Esraeldawit-a&show_icons=true&theme=tokyonight" height="192px"/></a>
   <a href="https://esraeldawit.me/portifolio"><img alt="Esrael Dawit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraeldawit-a&layout=compact" height="192px"/></a>
   <br/>
+  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://blooming-savannah-50472.herokuapp.com/graph?username=Esraeldawit-a&theme=react-dark&hide_border=true"><img alt="Esrael Dawit's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=Esraeldawit-a&theme=react-dark&hide_border=true" /></a>
+<a href="#"><img alt="Esrael Dawit's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=Esraeldawit-a&theme=react-dark&hide_border=true" /></a>
 
 ---
 
