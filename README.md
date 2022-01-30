@@ -26,7 +26,7 @@
 
 <!-- GitHub Readme Streak Stats - https://esraeldawit.me/portifolio -->
 <p align="center">
-  <a href="https://esraeldawit.me/portifolio">
+  <a href="#">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="EsraelDawit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Esraeldawit-a&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
