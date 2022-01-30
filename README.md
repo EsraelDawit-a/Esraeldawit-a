@@ -55,12 +55,12 @@
   💻 GitHub Profile Stats
   <br/>
   <br/>
-  <p align="center">
+
     <a href="https://esraeldawit.me/portifolio/"><img alt="Esrael Dawit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Esraeldawit-a&show_icons=true&theme=tokyonight" height="192px" /></a>
 
 
  <a href="https://esraeldawit.me/portifolio"><img alt="Esrael Dawit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraeldawit-a&layout=compact&theme=tokyonight" height="192px"/></a>
-   <p/>
+  
 
   <br/>
   <br/>
