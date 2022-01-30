@@ -54,8 +54,9 @@
 
   💻 GitHub Profile Stats
   <br/>
-    <a href="https://esraeldawit.me/portifolio"><img alt="Esrael Dawit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Esraeldawit-a&show_icons=true&theme=tokyonight" height="192px"/></a>
-  <a href="https://esraeldawit.me/portifolio"><img alt="Esrael Dawit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraeldawit-a&layout=compact" height="192px"/></a>
+  <br/>
+    <a href="https://esraeldawit.me/portifolio/"><img alt="Esrael Dawit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Esraeldawit-a&show_icons=true&theme=tokyonight" height="192px"/></a>
+  <a href="https://esraeldawit.me/portifolio/"><img alt="Esrael Dawit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraeldawit-a&layout=tokyonight" height="192px"/></a>
   <br/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
