@@ -57,8 +57,9 @@
   <br/>
   <p align="center">
     <a href="https://esraeldawit.me/portifolio/"><img alt="Esrael Dawit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Esraeldawit-a&show_icons=true&theme=tokyonight" height="192px" /></a><br/>
+    <p/>
   <a href="https://esraeldawit.me/portifolio/"><img alt="Esrael Dawit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraeldawit-a&layout=tokyonight" height="192px" width="550px" /></a>
-  <p/>
+
   <br/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
