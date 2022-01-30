@@ -38,9 +38,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="Vue Js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />]
 
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
@@ -56,14 +54,14 @@
 # 📊 Github stats
 
 <!-- https://esraeldawit.me/portifolio -->
-<details> 
+
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://esraeldawit.me/portifolio"><img alt="Esrael Dawit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Esraeldawit-a&show_icons=true&theme=tokyonight" height="192px"/></a>
   <a href="https://esraeldawit.me/portifolio"><img alt="Esrael Dawit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraeldawit-a&layout=compact" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
+
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://blooming-savannah-50472.herokuapp.com/graph?username=Esraeldawit-a&theme=react-dark&hide_border=true"><img alt="Esrael Dawit's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=Esraeldawit-a&theme=react-dark&hide_border=true" /></a>
