@@ -1,16 +1,16 @@
 
-<a href="http://esraeldawit.me/portifolio/" alt="Portifolio" ><img width="100%" height="auto" src="https://github.com/EsraelDawit-a/profile/blob/main/Hello,%20I'm%20Esrael%20Dawit.png?raw=true" height="175px"/></a>
+<a href="#" alt="Portifolio" ><img width="100%" height="auto" src="https://github.com/EsraelDawit-a/profile/blob/main/Hello,%20I'm%20Esrael%20Dawit.png?raw=true" height="175px"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Esraeldawit-a&label=Profile%20views&color=ffba01&style=flat" alt="Esrael-Dawit" /> </p>
 
-### Hi there, I'm Esrael Dawit [Portifolio][website] 👋 
+### Hi there, I'm Esrael Dawit 👋 
 
-## I'm a Student, a self-taught passionate Fullstack , Compettive programmer!!
+## I'm Software engineer, a self-taught passionate Fullstack , Compettive programmer!!
 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to  play guitar / drums/ Piano
 
 ### Connect with me:
